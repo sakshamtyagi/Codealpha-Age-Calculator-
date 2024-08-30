@@ -10,4 +10,16 @@ Responsive Design: Optimized for all devices, including desktops, tablets, and s
 Date Picker Integration: Convenient calendar date picker for quick input.
 Built with HTML, CSS, and JavaScript: Clean, maintainable code that can be easily customized or extended.
 
+<img width="956" alt="agecalculator" src="https://github.com/user-attachments/assets/b2077116-8a9d-415a-ab98-1e9c89420c0b">
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Contributing
+
+Contributions are welcome! If you have suggestions for improvements or additional features, feel free to open an issue or submit a pull request.
+
 Thank you
